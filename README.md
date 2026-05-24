@@ -9,21 +9,7 @@
 ### Splash / Loading Screen
 When the app first loads, a full-screen animated intro plays before fading into the main interface.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│                                                              │
-│                         ◌  spinning                         │
-│                                                              │
-│                      📄 DocMind                             │
-│                                                              │
-│         Intelligent Document Q&A — powered by Claude        │
-│                                                              │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-  Dark gradient background (#0f0c29 → #302b63 → #24243e)
-  Fades out after ~2.5 s, main app fades in underneath
-```
+![DocMind splash screen](doc-mid.png)
 
 ### Main Application Layout
 
